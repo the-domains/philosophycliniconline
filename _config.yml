@@ -1,0 +1,37 @@
+name: philosophycliniconline
+analytics: {}
+github: true
+description: >-
+  A pmace to come for asisstance with your philosophical tasks for IB and
+  undergraduate candidates
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 0.9323383178561926
+color:
+  lightness: 0.3692682623791667
+  brandColors:
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
+  saturation: 0.1765166344532083
+  brandStrength: 0.2480825100206031
+  rhythmicContrast: 0.3909979081691703
+content_rating:
+  adult: false
+typography_spectrum: 0.8665862083435059
+opengraph: {}
+title: Philosophy Clinic
